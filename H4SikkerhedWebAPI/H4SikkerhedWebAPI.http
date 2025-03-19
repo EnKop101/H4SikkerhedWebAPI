@@ -1,0 +1,6 @@
+@H4SikkerhedWebAPI_HostAddress = http://localhost:5218
+
+GET {{H4SikkerhedWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
